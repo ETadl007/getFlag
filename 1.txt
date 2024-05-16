@@ -349,3 +349,6 @@ rot13 --->hell
 什么编码 ---->6a1ec673bfd3cf43bdb5d06e14f09707
 有点难 ---->6013221752df892237d0fc99fd8a328f
 uuuuuuunnnn ---->5be6f00e8b8722ef0c075bdb2b4d7001
+来个培根汉堡 ---->shiyanba/is/cool
+你能找到账号密码登录吗？ ---->lz7cvItDfI3A1Pof5Ne0HIHI8z1egcBghElWoKveSJlMqyIMN3yLcHGL9Huuy8
+Virus Analyze ---->
