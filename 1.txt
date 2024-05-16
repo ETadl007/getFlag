@@ -346,5 +346,6 @@ rot13 --->hell
 数字B ---->IS6cvkrhFpVEHAK8Ap
 32+32 --->e9708b278c79b230ca7d5e6925b0e079
 听听看看都在其中 ---->FF  B ED FD F C BA E B  C
-
+什么编码 ---->6a1ec673bfd3cf43bdb5d06e14f09707
 有点难 ---->6013221752df892237d0fc99fd8a328f
+uuuuuuunnnn ---->5be6f00e8b8722ef0c075bdb2b4d7001
