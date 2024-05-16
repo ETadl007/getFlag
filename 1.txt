@@ -341,4 +341,6 @@ happy_use_0penssi
 这是末心泄露在2019年4月的一个信息哦，Flag格式是flag{省份-城市-恩师学校名称}
 flag{河南-郑州-郑州师范学院}
 
-rot13 --->hell0_world
+rot13 --->hell
+兔子兔子 --->sImPle_xUe_yuan
+数字B ---->IS6cvkrhFpVEHAK8Ap
