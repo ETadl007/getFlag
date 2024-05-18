@@ -372,3 +372,4 @@ Is it trying to tell me something? ------>The user is going to pick dancing pigs
 一起来拼图吧 ----->eecece36874e068e18df9e565351bd53
 No Big Deal ----->betterfs.than.yours
 xor ------>WelcomeToCTF
+红亚会议靶场 ---->1.d28cd3f065dbdc3f 2.59263aa6d413c5a2
