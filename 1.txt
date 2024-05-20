@@ -375,3 +375,5 @@ xor ------>WelcomeToCTF
 红亚会议靶场 ---->1.d28cd3f065dbdc3f 2.59263aa6d413c5a2
 shell 靶场 ----->1.flag{4ef7bb251e0ef5f7} 2.flag{e343279857ea7f69}
 很多 ----->flag{PYTHON IS GOOD}
+32 ---->flag{888e7b8b2d94aedbe6d0b7933c3506bf}
+uuuu ------>flag{4e95cce551e20c81ea92b8f76c0ec8f5}
