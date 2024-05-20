@@ -373,3 +373,4 @@ Is it trying to tell me something? ------>The user is going to pick dancing pigs
 No Big Deal ----->betterfs.than.yours
 xor ------>WelcomeToCTF
 红亚会议靶场 ---->1.d28cd3f065dbdc3f 2.59263aa6d413c5a2
+shell 靶场 ----->1.flag{4ef7bb251e0ef5f7} 2.flag{e343279857ea7f69}
