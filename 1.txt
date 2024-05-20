@@ -377,3 +377,6 @@ shell 靶场 ----->1.flag{4ef7bb251e0ef5f7} 2.flag{e343279857ea7f69}
 很多 ----->flag{PYTHON IS GOOD}
 32 ---->flag{888e7b8b2d94aedbe6d0b7933c3506bf}
 uuuu ------>flag{4e95cce551e20c81ea92b8f76c0ec8f5}
+再试试 ---->flag{40e4edc94b08e4d03d2df9e7ba76f10b}
+超级简单 ------>flag{97ff039a66796a89c9270109fe58a46d}
+rc? ---->flag{cc5ff8d6e7356e32076639ce07e4a7ee}
